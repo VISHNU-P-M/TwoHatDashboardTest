@@ -1,0 +1,76 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.nav-link {
+    color: #838383;
+}
+
+.side-div {
+    background: #F1F6FE;
+    background-image: url('./side_background.svg');
+    background-repeat: repeat-y;
+}
+
+.main-div {
+    padding-right: 0 !important;
+    background-image: url('./main_bg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    margin: 0;
+}
+
+.main-title {
+    font-size: 64px !important;
+    max-width: 50rem !important;
+}
+
+.main-sub-title {
+    font-size: 17px !important;
+    max-width: 40rem !important;
+    color: #2D3134;
+}
+
+.main-inner-div {
+    padding-top: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 6rem;
+}
+
+.start-icon {
+    top: 16rem;
+    left: 43rem;
+}
+
+.main_stud_img_3 {
+    margin-left: 100px;
+}
+
+.main_stud_img_2 {
+    margin-left: 50px;
+}
+
+.book-seat-btn {
+    background-color: #2F584E;
+    height: 5rem;
+}
+
+.book-seat-btn:hover {
+    background-color: #26443E;
+    /* Slightly darker shade on hover */
+}
+
+.footer-div {
+    background-color: #FF9257;
+}
+
+.footer-title {
+    font-size: 56px !important;
+}
+
+.row {
+    margin-right: 0 !important;
+}
